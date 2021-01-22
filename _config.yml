@@ -23,7 +23,7 @@ paginate_path:       '/page-:num/'
 description:         >
   YueSha的博客
 # The tags listed as entries in the sidebar
-sidebar_tags:        [wiki, essay]
+sidebar_tags:        [essay]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/001.jpg
