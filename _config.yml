@@ -13,7 +13,7 @@ url:                 http://yuesha-yc.github.io
 # i.e. `http://<username>.github.io`
 baseurl:             # http://yuesha.github.io
 
-title:               酒石酸菌
+title:               YueSha
 
 # Pagination
 paginate:            5
